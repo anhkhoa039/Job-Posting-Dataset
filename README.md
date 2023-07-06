@@ -16,6 +16,10 @@ Job Posting Dataset
 | 7   | `Salary`      |  
 | 8   | `category`    |  
 
-- `finance_mycareerfuture_JDs.json` : finance domain
-- `fab_mycareerfuture_JDs.json` : F&B domain
+- `finance_mycareerfuture_JDs.json` : finance domain - 635 job post
+- `fab_mycareerfuture_JDs.json` : F&B domain - 536 job post
+
+
+# Reference
+1. https://github.com/WING-NUS/1.JD2Skills-BERT-XMLC
 
